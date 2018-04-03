@@ -1,0 +1,2 @@
+# example of authorized_keys entry
+command="/home/cnh/bin/get_weekly_file_stats.sh",no-pty,no-port-forwarding,no-X11-forwarding ssh-rsa PUBLIC-KEY-ENTRY root@ip-172-16-28-49
