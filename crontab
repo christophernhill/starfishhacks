@@ -1,0 +1,2 @@
+# crontab entry on regular command submit node
+24 20 * * * ssh -A -l cnh eofe4.mit.edu -i ~/.ssh/id_eofe_starfish_du_cron echo "hello" >> /root/ct.log
