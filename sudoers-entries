@@ -1,0 +1,6 @@
+# Entries for sudoers on the starfish host machine
+
+cnh ALL=(ALL) NOPASSWD: /cnh/files-acmtimesize-7mo1G.sh
+Defaults!/cnh/files-acmtimesize-7mo1G.sh !requiretty
+cnh ALL=(ALL) NOPASSWD: /cnh/files-acmtimesize-6mo1G.sh
+Defaults!/cnh/files-acmtimesize-6mo1G.sh !requiretty
